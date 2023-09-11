@@ -1,4 +1,4 @@
-var daffa = 168;
+var daffa = 162;
 var habib = 164;
 var rafly = 160;
 
@@ -91,33 +91,33 @@ if (daffa > rafly) {
   }
 }
 
-// console.log("");
-// console.log("RUMUS KETIGA");
-// console.log("Urutan Siswa Dari Yang Tertinggi Ke Yang Pendek");
+console.log("");
+console.log("RUMUS KETIGA");
+console.log("Urutan Siswa Dari Yang Tertinggi Ke Yang Pendek");
 
-// console.log("Yang tertinggi adalah....");
-// if (daffa > rafly && daffa > habib) {
-//   console.log(daffa);
-// } else if (habib > rafly && habib > daffa) {
-//   console.log(habib);
-// } else {
-//   console.log(daffa);
-// }
+console.log("Yang tertinggi adalah....");
+if (daffa > rafly && daffa > habib) {
+  console.log(daffa);
+} else if (habib > rafly && habib > daffa) {
+  console.log(habib);
+} else {
+  console.log(daffa);
+}
 
-// console.log("Yang menengah adalah....");
-// if (daffa > rafly && daffa > habib) {
-//   console.log(habib);
-// } else if (habib > rafly && habib > daffa) {
-//   console.log(habib);
-// } else {
-//   console.log(daffa);
-// }
+console.log("Yang menengah adalah....");
+if (daffa > rafly && daffa > habib) {
+  console.log(habib);
+} else if (habib > rafly && habib > daffa) {
+  console.log(habib);
+} else {
+  console.log(daffa);
+}
 
-// console.log("Yang terpendek adalah....");
-// if (daffa > rafly && daffa > habib) {
-//   console.log(daffa);
-// } else if (habib > rafly && habib > daffa) {
-//   console.log(habib);
-// } else {
-//   console.log(daffa);
-// }
+console.log("Yang terpendek adalah....");
+if (daffa > rafly && daffa > habib) {
+  console.log(daffa);
+} else if (habib > rafly && habib > daffa) {
+  console.log(habib);
+} else {
+  console.log(daffa);
+}
