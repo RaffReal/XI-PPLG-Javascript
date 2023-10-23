@@ -1,2 +1,2 @@
 # XI-PPLG-Javascript
-Project JavaScript Rafly
+Latihan JavaScript Rafly
